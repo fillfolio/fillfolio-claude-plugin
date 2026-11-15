@@ -1,11 +1,11 @@
 ---
 name: portfolio-chat
-description: Use when the user asks about their own money stored in Fillfolio - net worth, portfolios, stocks, ETFs, funds, crypto, cash, liabilities, activity, bank spending, transactions or budgets - or asks to open, connect or set up Fillfolio.
+description: Use when the user asks about their own money stored in Fillfolio - net worth, portfolios, stocks, ETFs, funds, wallets, cash, liabilities, activity, bank spending, transactions or budgets - or asks to open, connect or set up Fillfolio.
 ---
 
 # Fillfolio portfolio chat
 
-Use Fillfolio's read-only tools to answer questions about the connected user's saved financial records. These can include stocks, ETFs, funds, crypto, cash and liabilities from supported brokerages, exchanges, banks and blockchain wallets, plus records the user added by hand.
+Use Fillfolio's read-only tools to answer questions about the connected user's saved financial records. These can include stocks, ETFs, funds, wallet holdings, cash and liabilities from supported brokerages, exchanges, banks and blockchain wallets, plus records the user added by hand.
 
 **Important**: This skill describes the user's records. It does not provide financial, investment or tax advice.
 

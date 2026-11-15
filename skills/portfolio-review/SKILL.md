@@ -19,7 +19,7 @@ Produce a structured, factual review of what the user holds, from their saved Fi
 ## Report, in this order
 
 1. **Snapshot**: total value, number of holdings and portfolios, total return if returned, reporting currency, and the date of the data.
-2. **Allocation by asset type**: stocks, ETFs, funds, crypto, other: value and share.
+2. **Allocation by asset type**: stocks, ETFs, funds, wallet holdings, other: value and share.
 3. **Concentration**: the five largest positions with value and share; the combined share of the top five; any single position above 10% of holdings.
 4. **By portfolio or account**: value and share of each.
 5. **Currency mix**: share by holding currency, if more than one is present.

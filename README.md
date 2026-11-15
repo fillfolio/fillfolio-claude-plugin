@@ -1,6 +1,6 @@
 # Fillfolio for Claude
 
-Ask Claude about the money you track in [Fillfolio](https://fillfolio.com): stocks, ETFs, funds, crypto, cash, liabilities, bank spending and budgets. The plugin connects Claude to your own Fillfolio account and adds three skills that turn the saved records into clear answers and reviews.
+Ask Claude about the money you track in [Fillfolio](https://fillfolio.com): stocks, ETFs, funds, wallets, cash, liabilities, bank spending and budgets. The plugin connects Claude to your own Fillfolio account and adds three skills that turn the saved records into clear answers and reviews.
 
 It is read-only. Claude cannot trade, move money, edit your records, or refresh your brokerages, exchanges, wallets or banks. It reads what is already saved in Fillfolio.
 
